@@ -1,0 +1,1 @@
+print("all maths functions here")
